@@ -1,0 +1,4 @@
+pyserial
+python-qt4
+
+
